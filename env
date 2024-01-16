@@ -1,0 +1,13 @@
+
+    ELASTIC_PROXY=True
+    OPENAI_API_KEY='d316dfd1e37a24a177c0fa26396b818c'
+    OPENAI_API_BASE='https://llmproxy.gcp.elasticsa.co/v1'
+    OPENAI_API_ENGINE='gpt-35-turbo'
+    ELASTIC_URL='https://genai-workshop.es.us-east4.gcp.elastic-cloud.com:443'
+    ELASTIC_USER='workshop_20240116_7e55'
+    ELASTIC_PASSWORD='638311ca847ab39855610e8a'
+    ELASTIC_INDEX_DOCS='workshop-session2-chunker'
+    ELASTIC_APM_ENVIRONMENT='colab_7e55'
+    ELASTIC_APM_SERVER_URL='https://371689ddc32b45f1a5fda0c7354a3e79.apm.us-east4.gcp.elastic-cloud.com'
+    ELASTIC_APM_SECRET_TOKEN='nYT8Le8IMASA3EDmeW'
+    
